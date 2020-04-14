@@ -5,6 +5,9 @@ html, body {
 
 header {
   background-color: #333333;
+  position: fixed;
+  z-index: 5;
+  width: 100%;
 }
 
 nav {
